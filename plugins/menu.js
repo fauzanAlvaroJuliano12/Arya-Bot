@@ -33,10 +33,10 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       .replace(/%date/g, date)
       .replace(/%time/g, time): `
 🤖 [NFQ BOT] 🤖
-Created Bye: @Drawl Nag
+Created By my owner: @avvcringe.tolol
 
-Hi, ${name} 👋
-Exp: ${exp}
+Hi, ${name} hadehh
+Exp: ${exp} Tuh xp lu njeng
 
 Cara Tambah XP:
 +1 Exp/pesan biasa
@@ -56,8 +56,8 @@ ${more.repeat(1000)}
 ╠➥ ${_p}help
 ╠➥ ${_p}?
 ║
-╠═〘 Tutor BoT 〙 ═
-╠➥ ${_p}tutorial
+╠ ${_p}Fitnah ( contoh ( Ah anjing lah @member ))
+╠
 ║
 ╠═〘 Quotes 〙 ═
 ╠➥ ${_p}bucin
@@ -108,13 +108,13 @@ ${more.repeat(1000)}
 ╠➥ ${_p}mutechat group
 ║
 ╠═〘 IKLAN 〙 ═
-╠➥ Instagram: @arpunchs
-╠➥ Github: https://github.com/Arya274/Arya-Bot
+╠➥ Instagram: @avvcringe.tolol
+╠➥ Github: *Sorry* *_Sc is private_* 
 ║
 ╠═〘 Info Bot 〙 ═
 ╠➥ Name : NFQ BOT
 ╠➥ Coded using *Nano* on Android \\w Termux
-╠➥ Request? Wa.me/6288235435804
+╠➥ Request? Wa.me/12673890811
 ╠═════
 ║ Advanced:
 ║  > return m
